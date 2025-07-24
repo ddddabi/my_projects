@@ -5,7 +5,7 @@
 제가 직접 탐구하고, 기획하고, 설계하고, 개발한 프로젝트들을 모아둔 저장소입니다.
 도전해보고 싶은 아이디어를 실제로 구현하며 성장한 결과물들을 한눈에 확인할 수 있습니다.
 
-- 최종 업데이트일: 2025-07-19
+- 최종 업데이트일: 2025-07-24
 
 ---
 
@@ -56,12 +56,11 @@
 
 | 프로젝트 이름                        | 설명                 | 기술 스택 | 링크                                      |
 |--------------------------------|--------------------|--------|-------------------------------------------|
-| Oracle Query Practice Book     | Oracle SQL 학습용 실습  | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) | [🔗 바로가기](https://github.com/ddddabi/oracle_select) |
 | SeatHelper                     | 자바 기반 자리 랜덤 배치 프로젝트 | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | [🔗 바로가기](https://github.com/ddddabi/FISA_SeatHelper/tree/main) |
 | java-lotto-7                   | 자바 기반 로또 프로그램      | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | [🔗 바로가기](https://github.com/ddddabi/java-lotto-7) |
 | java-racingcar-7               | 자바 기반 자동차 경주 프로그램  | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | [🔗 바로가기](https://github.com/ddddabi/java-racingcar-7) |
 | java-calculator-7              | 자바 문자열 덧셈 계산기      | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | [🔗 바로가기](https://github.com/ddddabi/java-calculator-7) |
-| Property-management-system-PMS | 단말 자산 관리 시스템 설계 학습 | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) | [🔗 바로가기](https://github.com/ddddabi/Property-management-system-PMS) |
+| Property-management-system-PMS | 단말 자산 관리 시스템 설계 학습 | ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) | [🔗 바로가기](https://github.com/ddddabi/Property-management-system-PMS) |
 
 
 
