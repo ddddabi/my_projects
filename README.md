@@ -5,7 +5,7 @@
 제가 직접 탐구하고, 기획하고, 설계하고, 개발한 프로젝트들을 모아둔 저장소입니다.
 도전해보고 싶은 아이디어를 실제로 구현하며 성장한 결과물들을 한눈에 확인할 수 있습니다.
 
-- 최종 업데이트일: 2025-07-24
+- 최종 업데이트일: 2026-01-19
 
 ---
 
@@ -15,6 +15,7 @@
 |---------------|-------------------------------------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 |TrendSpot| 소상공인을 위한 스마트 창업 인사이트 플랫폼: 민간 카드사의 소비 데이터를 바탕으로, 시군구 및 행정동 단위에서 업종별 소비 패턴을 분석 | ![trendSpot.gif](image/trendSpot.gif) | ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)  ![DBeaver](https://img.shields.io/badge/DBeaver-28a745?style=flat&logo=dbeaver&logoColor=white)                                                                                               |[🔗 바로가기](https://github.com/ddddabi/TrendSpot/tree/main)|
 |Finlet| 3-Tier 기반의 개인 금융 관리 시스템(가계부)으로 JWT, Spring Security 등 보안 적용 | ![finlet.gif](image/finLet.gif)  | ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)  ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)  |[🔗 바로가기](https://github.com/TierGuardians)|
+|Privideo| 하이브리드 클라우드 기반 동영상 스트리밍 공유 플랫폼 | ![privideo.png](image/privideo.png)  | ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)  |[🔗 바로가기](https://github.com/AllStackProject)|
 
 ---
 
